@@ -101,7 +101,7 @@ PATH=~/tmp/Birdland-main/src/birdland:$PATH
 
 The executable is:
 ```
-birdland.pl
+birdland
 ```
 
 ## Initial Run
